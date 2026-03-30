@@ -1,2 +1,3 @@
 # CS1112---Algorithms-and-Data-Structures---GWU
-All java implementation coursework for CS1112 at the George Washington University
+This file contains all the homwework solutions for CSCI1112 at GWU. This is for storage and for documenting my work.
+If you're taking this course at the George Washington University, don't abuse this.
