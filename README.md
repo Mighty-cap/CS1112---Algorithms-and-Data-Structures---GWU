@@ -8,7 +8,7 @@ Java implementations of core data structures and algorithms, written for CSCI 11
 
 | # | Topic | What's in it |
 |---|-------|--------------|
-| HW1 | Arrays & string manipulation | `TileGame` — Scrabble-like tile game using arrays and character utilities |
+| [HW1](assignments/HW1/) | Arrays & string manipulation | `TileGame` — Scrabble-like tile game using arrays and character utilities |
 | HW2 | Sets & searching | `EmbeddedSet` — deciphering encoded messages by searching for embedded words in a cipher |
 | HW3 | Sorting & searching | `ClassSchedule` — selection, bubble, and insertion sort + binary search on university schedule data; includes performance profiling |
 | HW4 | Linked lists & array lists | `LinkedList` and `ArrayList` both implementing a `MusicCatalog` interface with `Song`/`CatalogItem` nodes — `add`, `remove`, `get`, `contains`, `clear`, `isEmpty` |
