@@ -30,11 +30,5 @@ Arrays, string/character manipulation, set operations, sorting (selection, bubbl
       HW6/    <- HashMap, TreeMap, Map interface
     lecture-notes/
 
-## Running the code
-
-Each assignment compiles independently. From inside an assignment folder:
-
-    javac *.java
-    java UnitTests
 
 *Spring 2026 — course completed - changes in progress*
